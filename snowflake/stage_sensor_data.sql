@@ -1,0 +1,1 @@
+PUT file:///tmp/ai4i2020.csv @predictive_maintenance.public.%SUMMARY_SENSOR_DATA
